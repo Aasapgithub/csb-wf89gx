@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://aasapgithub.github.io/csb-wf89gx/static/js/main.d7a179dc.chunk.js",
+    "main.js.map": "https://aasapgithub.github.io/csb-wf89gx/static/js/main.d7a179dc.chunk.js.map",
+    "runtime-main.js": "https://aasapgithub.github.io/csb-wf89gx/static/js/runtime-main.8eecb2c9.js",
+    "runtime-main.js.map": "https://aasapgithub.github.io/csb-wf89gx/static/js/runtime-main.8eecb2c9.js.map",
+    "static/js/2.d8b9c863.chunk.js": "https://aasapgithub.github.io/csb-wf89gx/static/js/2.d8b9c863.chunk.js",
+    "static/js/2.d8b9c863.chunk.js.map": "https://aasapgithub.github.io/csb-wf89gx/static/js/2.d8b9c863.chunk.js.map",
+    "index.html": "https://aasapgithub.github.io/csb-wf89gx/index.html",
+    "precache-manifest.53b92e913793b103cca628dac20d9cab.js": "https://aasapgithub.github.io/csb-wf89gx/precache-manifest.53b92e913793b103cca628dac20d9cab.js",
+    "service-worker.js": "https://aasapgithub.github.io/csb-wf89gx/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8eecb2c9.js",
+    "static/js/2.d8b9c863.chunk.js",
+    "static/js/main.d7a179dc.chunk.js"
+  ]
+}
